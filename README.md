@@ -1,6 +1,9 @@
 # tutor
-run `composer install` setelah clone 
-run `cp env .env` diterminal
+setelah berhasil clone run `composer install`.
+
+run `cp env .env` 
+
+run bisa di terminal or gitbash.
 
 # CodeIgniter 4 Application Starter
 
