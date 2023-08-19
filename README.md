@@ -1,3 +1,7 @@
+# tutor
+run `composer install` setelah clone 
+run `cp env .env` diterminal
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
