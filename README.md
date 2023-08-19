@@ -3,7 +3,7 @@ setelah berhasil clone run `composer install`.
 
 run `cp env .env` 
 
-run bisa di terminal or gitbash.
+run bisa di terminal or gitbash. pastikan menjalankan command didalam direktori project
 
 # CodeIgniter 4 Application Starter
 
